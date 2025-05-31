@@ -40,7 +40,7 @@ cd collection-management-platform
 ### 2. Build & Start with Docker Compose
 
 ```bash
-docker-compose up --build
+docker-compose build --no-cache && docker-compose up
 ```
 
 If port `3000` is already in use, you can change it in `docker-compose.yml`:
@@ -54,7 +54,7 @@ ports:
 First, run the development server:
 
 ```bash
-npm install # or yarn install
+npm install --legacy-peer-deps # or yarn install --legacy-peer-deps
 npm run dev # or pnpm dev # or bun dev
 ```
 
