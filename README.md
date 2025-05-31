@@ -1,30 +1,68 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
-## Getting Started
+# 🧱 Collection Management Platform
+
+A web-based product collection management system built with **Next.js**, **TypeScript**, **TailwindCSS**, and **dnd-kit** for drag-and-drop interaction. This project also supports Docker-based deployment for consistency across environments.
+
+---
+
+## 🚀 Features
+
+- Drag-and-drop product sorting with pagination
+- Grid/List/Table view toggle
+- Modal dialogs for confirmation and alerts
+- Responsive layout with Tailwind CSS
+- Responsive elements with Material UI
+- Fully containerized using Docker
+
+---
+
+## 📦 Project Structure
+
+- [/components](https://github.com/kaankarakaas/collection-management-platform/tree/master/components) # UI components (Modal, Grid, ViewSelector, etc.)
+- [/pages](https://github.com/kaankarakaas/collection-management-platform/tree/master/pages) # Next.js routing (includes _app.tsx, index.tsx, etc.)
+- [/public](https://github.com/kaankarakaas/collection-management-platform/tree/master/public) # Static assets
+- [/styles](https://github.com/kaankarakaas/collection-management-platform/tree/master/styles) # TailwindCSS and custom styles
+- [/next.config.ts](https://github.com/kaankarakaas/collection-management-platform/tree/master/next.config.ts) # Next.js configuration
+- [/Dockerfile](https://github.com/kaankarakaas/collection-management-platform/tree/master/Dockerfile) # Docker build instructions
+- [/docker-compose.yml](https://github.com/kaankarakaas/collection-management-platform/tree/master/docker-compose.yml) # Multi-container orchestration
+
+---
+## 🐳 Run With Docker
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/kaankarakaas/collection-management-platform.git
+cd collection-management-platform
+```
+
+### 2. Build & Start with Docker Compose
+
+```bash
+docker-compose up --build
+```
+
+If port `3000` is already in use, you can change it in `docker-compose.yml`:
+
+```yaml
+ports:
+  - "3001:3000"
+```
+## 🔧 Development (Local)
 
 First, run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install # or yarn install
+npm run dev # or pnpm dev # or bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+---
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
+## 📄 Learn More
 
 To learn more about Next.js, take a look at the following resources:
 
@@ -33,8 +71,6 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+MIT License. Feel free to use, modify, and distribute.
