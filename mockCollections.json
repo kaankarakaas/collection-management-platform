@@ -1,0 +1,318 @@
+{
+    "meta": {
+        "page": 1,
+        "pageSize": 10,
+        "totalCount": 21,
+        "totalPages": 3,
+        "hasPreviousPage": false,
+        "hasNextPage": true
+    },
+    "data": [
+        {
+            "id": 45,
+            "filters": {
+                "useOrLogic": true,
+                "filters": [
+                    {
+                        "id": "color",
+                        "title": "Renk",
+                        "value": "0002",
+                        "valueName": "Mor",
+                        "currency": null,
+                        "comparisonType": 0
+                    }
+                ]
+            },
+            "type": 1,
+            "info": {
+                "id": 68,
+                "name": "Can stayling",
+                "description": "<p>profesyonel stayling uzmanı1</p>",
+                "url": "can-stayling",
+                "langCode": "tr-TR"
+            },
+            "salesChannelId": 2,
+            "products": null
+        },
+        {
+            "id": 67,
+            "filters": {
+                "useOrLogic": true,
+                "filters": [
+                    {
+                        "id": "color",
+                        "title": "Renk",
+                        "value": "0005",
+                        "valueName": "Sarı",
+                        "currency": null,
+                        "comparisonType": 0
+                    }
+                ]
+            },
+            "type": 1,
+            "info": {
+                "id": 93,
+                "name": "collection test",
+                "description": "<p>collection testting</p>",
+                "url": "collection-test",
+                "langCode": "tr-TR"
+            },
+            "salesChannelId": 1,
+            "products": null
+        },
+        {
+            "id": 41,
+            "filters": {
+                "useOrLogic": false,
+                "filters": [
+                    {
+                        "id": "category",
+                        "title": "Kategori",
+                        "value": "1000300516",
+                        "valueName": "Etek",
+                        "currency": null,
+                        "comparisonType": 0
+                    },
+                    {
+                        "id": "category",
+                        "title": "Kategori",
+                        "value": "1000300118",
+                        "valueName": "Bluz",
+                        "currency": null,
+                        "comparisonType": 0
+                    }
+                ]
+            },
+            "type": 1,
+            "info": {
+                "id": 63,
+                "name": "Etek&Bluz",
+                "description": "<p>En güzel etek ve bluzlar</p>",
+                "url": "etekbluz",
+                "langCode": "tr-TR"
+            },
+            "salesChannelId": 4,
+            "products": null
+        },
+        {
+            "id": 37,
+            "filters": {
+                "useOrLogic": true,
+                "filters": [
+                    {
+                        "id": "3",
+                        "title": "ETİKET MARKASI",
+                        "value": "0000300014",
+                        "valueName": "Gala-Xi",
+                        "currency": null,
+                        "comparisonType": 0
+                    }
+                ]
+            },
+            "type": 1,
+            "info": {
+                "id": 58,
+                "name": "Galaxi",
+                "description": "<p>Büyük Beden Stiller</p>",
+                "url": "galaxi",
+                "langCode": "tr-TR"
+            },
+            "salesChannelId": 4,
+            "products": null
+        },
+        {
+            "id": 21,
+            "filters": {
+                "useOrLogic": true,
+                "filters": [
+                    {
+                        "id": "color",
+                        "title": "Renk",
+                        "value": "0002",
+                        "valueName": "Mor",
+                        "currency": null,
+                        "comparisonType": 0
+                    }
+                ]
+            },
+            "type": 1,
+            "info": {
+                "id": 28,
+                "name": "Hasan'ın Seçtikleri",
+                "description": "<p>Deneme<strong> Test</strong></p>",
+                "url": "hasanin-sectikleri",
+                "langCode": "tr-TR"
+            },
+            "salesChannelId": 1,
+            "products": null
+        },
+        {
+            "id": 35,
+            "filters": {
+                "useOrLogic": true,
+                "filters": [
+                    {
+                        "id": "3",
+                        "title": "ETİKET MARKASI",
+                        "value": "0000300016",
+                        "valueName": "Ilmio",
+                        "currency": null,
+                        "comparisonType": 0
+                    }
+                ]
+            },
+            "type": 1,
+            "info": {
+                "id": 56,
+                "name": "İlmio",
+                "description": "<p>minumum 50 karakter girilmelidir</p>",
+                "url": "ilmio",
+                "langCode": "tr-TR"
+            },
+            "salesChannelId": 4,
+            "products": null
+        },
+        {
+            "id": 39,
+            "filters": {
+                "useOrLogic": true,
+                "filters": [
+                    {
+                        "id": "3",
+                        "title": "ETİKET MARKASI",
+                        "value": "0000300017",
+                        "valueName": "Ilmio Cocktail",
+                        "currency": null,
+                        "comparisonType": 0
+                    },
+                    {
+                        "id": "color",
+                        "title": "Renk",
+                        "value": "0008",
+                        "valueName": "Siyah",
+                        "currency": null,
+                        "comparisonType": 0
+                    }
+                ]
+            },
+            "type": 1,
+            "info": {
+                "id": 60,
+                "name": "Ilmio Kokteyl",
+                "description": "<p>Ilmio Kokteyl ve Parti Elbiseleri</p>",
+                "url": "ilmio-kokteyl",
+                "langCode": "tr-TR"
+            },
+            "salesChannelId": 4,
+            "products": null
+        },
+        {
+            "id": 26,
+            "filters": {
+                "useOrLogic": true,
+                "filters": [
+                    {
+                        "id": "tag",
+                        "title": "Etiket",
+                        "value": "000000202",
+                        "valueName": "%20 İndirim Deneme",
+                        "currency": null,
+                        "comparisonType": 0
+                    },
+                    {
+                        "id": "color",
+                        "title": "Renk",
+                        "value": "0000",
+                        "valueName": "Mavi",
+                        "currency": null,
+                        "comparisonType": 0
+                    },
+                    {
+                        "id": "color",
+                        "title": "Renk",
+                        "value": "0008",
+                        "valueName": "Siyah",
+                        "currency": null,
+                        "comparisonType": 0
+                    },
+                    {
+                        "id": "color",
+                        "title": "Renk",
+                        "value": "0009",
+                        "valueName": "Kırmızı",
+                        "currency": null,
+                        "comparisonType": 0
+                    },
+                    {
+                        "id": "3",
+                        "title": "ETİKET MARKASI",
+                        "value": "0000300010",
+                        "valueName": "Seçil",
+                        "currency": null,
+                        "comparisonType": 0
+                    }
+                ]
+            },
+            "type": 1,
+            "info": {
+                "id": 33,
+                "name": "Kış Sezonu",
+                "description": "<p>Deneme</p>",
+                "url": "kis-sezonu",
+                "langCode": "tr-TR"
+            },
+            "salesChannelId": 1,
+            "products": null
+        },
+        {
+            "id": 51,
+            "filters": {
+                "useOrLogic": false,
+                "filters": null
+            },
+            "type": 0,
+            "info": {
+                "id": 77,
+                "name": "Manuel koleksiyon",
+                "description": "<p>adsawdadsawd</p>",
+                "url": "manuel-koleksiyon",
+                "langCode": "tr-TR"
+            },
+            "salesChannelId": 4,
+            "products": [
+                {
+                    "productCode": "10002421211006",
+                    "colorCode": null,
+                    "name": "Çift Kumaşlı Uzun Kollu Gömlek",
+                    "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421211006/0015/1.webp?x=kyvrb"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "filters": {
+                "useOrLogic": true,
+                "filters": [
+                    {
+                        "id": "color",
+                        "title": "Renk",
+                        "value": "0009",
+                        "valueName": "Kırmızı",
+                        "currency": null,
+                        "comparisonType": 0
+                    }
+                ]
+            },
+            "type": 1,
+            "info": {
+                "id": 69,
+                "name": "Ord. Can sıtayling",
+                "description": "<p>ord. prof. Can - sıtayling </p>",
+                "url": "ord-can-sitayling",
+                "langCode": "tr-TR"
+            },
+            "salesChannelId": 1,
+            "products": null
+        }
+    ]
+}

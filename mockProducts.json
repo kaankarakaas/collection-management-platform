@@ -1,0 +1,301 @@
+{
+  "status": 200,
+  "message": "Başarılı",
+  "data": {
+    "meta": {
+      "page": 1,
+      "pageSize": 36,
+      "totalProduct": 644
+    },
+    "data": [
+      {
+        "productCode": "10002421010027",
+        "colorCode": "0317",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421010027/0317/1.webp?x=yqjjz"
+      },
+      {
+        "productCode": "10002421011001",
+        "colorCode": "0037",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421011001/0037/1.webp?x=rsrlc"
+      },
+      {
+        "productCode": "10002421011012",
+        "colorCode": "0008",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421011012/0008/1.webp?x=tdzfz"
+      },
+      {
+        "productCode": "10002421011014",
+        "colorCode": "0008",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421011014/0008/1.webp?x=lccrl"
+      },
+      {
+        "productCode": "10002421014003",
+        "colorCode": "0008",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421014003/0008/1.webp?x=plrqn"
+      },
+      {
+        "productCode": "10002421014003",
+        "colorCode": "0045",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421014003/0045/1.webp?x=prjhu"
+      },
+      {
+        "productCode": "10002421014004",
+        "colorCode": "0054",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421014004/0054/1.webp?x=pcqsy"
+      },
+      {
+        "productCode": "10002421014007",
+        "colorCode": "0008",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421014007/0008/1.webp?x=vczru"
+      },
+      {
+        "productCode": "10002421014009",
+        "colorCode": "0037",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421014009/0037/1.webp?x=wdlvt"
+      },
+      {
+        "productCode": "10002421110002",
+        "colorCode": "0045",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421110002/0045/1.webp?x=fggki"
+      },
+      {
+        "productCode": "10002421110012",
+        "colorCode": "0008",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421110012/0008/1.webp?x=muzto"
+      },
+      {
+        "productCode": "10002421111017",
+        "colorCode": "0000",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421111017/0000/1.webp?x=ujwkw"
+      },
+      {
+        "productCode": "10002421211006",
+        "colorCode": "0015",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421211006/0015/1.webp?x=kyvrb"
+      },
+      {
+        "productCode": "10002421211014",
+        "colorCode": "0045",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421211014/0045/1.webp?x=qgqji"
+      },
+      {
+        "productCode": "10002421214001",
+        "colorCode": "0008",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421214001/0008/1.webp?x=jdfpa"
+      },
+      {
+        "productCode": "10002421310002",
+        "colorCode": "0008",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421310002/0008/1.webp?x=rwldh"
+      },
+      {
+        "productCode": "10002421310009",
+        "colorCode": "0019",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421310009/0019/1.webp?x=quvmz"
+      },
+      {
+        "productCode": "10002421311002",
+        "colorCode": "0008",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421311002/0008/1.webp?x=zvwsz"
+      },
+      {
+        "productCode": "10002421311010",
+        "colorCode": "0050",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421311010/0050/1.webp?x=cccev"
+      },
+      {
+        "productCode": "10002421311010",
+        "colorCode": "0054",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421311010/0054/1.webp?x=pcquf"
+      },
+      {
+        "productCode": "10002421314001",
+        "colorCode": "0008",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421314001/0008/1.webp?x=uhxsn"
+      },
+      {
+        "productCode": "10002421314006",
+        "colorCode": "0006",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421314006/0006/1.webp?x=ztwyo"
+      },
+      {
+        "productCode": "10002421510002",
+        "colorCode": "0015",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421510002/0015/1.webp?x=kqevd"
+      },
+      {
+        "productCode": "10002421511002",
+        "colorCode": "0312",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421511002/0312/1.webp?x=rmxbx"
+      },
+      {
+        "productCode": "10002421514006",
+        "colorCode": "0008",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421514006/0008/1.webp?x=muizo"
+      },
+      {
+        "productCode": "10002421514013",
+        "colorCode": "0006",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421514013/0006/1.webp?x=loqwq"
+      },
+      {
+        "productCode": "10002421514015",
+        "colorCode": "0008",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421514015/0008/1.webp?x=ettim"
+      },
+      {
+        "productCode": "10002421611005",
+        "colorCode": "0022",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421611005/0022/1.webp?x=kauhh"
+      },
+      {
+        "productCode": "10002421614002",
+        "colorCode": "0317",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421614002/0317/1.webp?x=rmqja"
+      },
+      {
+        "productCode": "10002421711005",
+        "colorCode": "0050",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421711005/0050/1.webp?x=opjcs"
+      },
+      {
+        "productCode": "10002421711007",
+        "colorCode": "0045",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421711007/0045/1.webp?x=fhguv"
+      },
+      {
+        "productCode": "10002421810012",
+        "colorCode": "0015",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002421810012/0015/1.webp?x=qgldc"
+      },
+      {
+        "productCode": "10002422110001",
+        "colorCode": "0045",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002422110001/0045/1.webp?x=jprpu"
+      },
+      {
+        "productCode": "10002422111002",
+        "colorCode": "0037",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002422111002/0037/1.webp?x=fstbl"
+      },
+      {
+        "productCode": "10002422114002",
+        "colorCode": "0312",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002422114002/0312/1.webp?x=gwknj"
+      },
+      {
+        "productCode": "10002422210003",
+        "colorCode": "0045",
+        "name": null,
+        "outOfStock": false,
+        "isSaleB2B": true,
+        "imageUrl": "https://cdn.secilstore.com/docs/images/product/orj/10002422210003/0045/1.webp?x=wwcqs"
+      }
+    ]
+  }
+}
